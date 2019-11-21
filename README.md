@@ -4,34 +4,39 @@ This is to visualize the Citi Bike data using Tabeau.
 
 This is to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story, or report.  
 
-* How many trips have been recorded total during the chosen period?
+## Total Trips
+<img src="images/TotalTrips.png">
+### Total Ridership
+<img src="images/TotalRidership.png">
+### Daily Ridership 
+<img src="images/DailyRidership.png">
 
-* By what percentage has total ridership grown? 
+### Popular Starting Stations
+<img src="images/PopularStartingStations.png">
 
-* How has the proportion of short-term customers and annual subscribers changed?
+### Popular Ending Stations
+<img src="images/PopularEndingStations.png"> 
 
-* What are the peak hours in which bikes are used during summer months? 
+### Gender
+<img src="images/Gender.png"> 
+ 
+### Age
+<img src="images/Age.png"> 
 
-* What are the peak hours in which bikes are used during winter months?
+### Age & Duration
+<img src="images/Age&Duration.png"> 
 
-* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
+### Type
+<img src="images/Type.png"> 
+ 
+### MapDashBoard
+<img src="images/MapDashboard.png"> 
 
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+### Ridership Summary
+<img src="images/RidershipSummary.png"> 
 
-* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)
+### Customers
+<img src="images/Customers.png"> 
 
-* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
-
-* Today, what is the gender breakdown of active participants (Male v. Female)?
-
-* How effective has gender outreach been in increasing female ridership over the timespan?
-
-* How does the average trip duration change by age?
-
-* What is the average distance in miles that a bike is ridden?
-
-* Which bikes (by ID) are most likely due for repair or inspection in the timespan? 
-
-* How variable is the utilization by bike ID?
 
 
