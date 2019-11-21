@@ -6,8 +6,10 @@ This is to aggregate the data found in the Citi Bike Trip History Logs to build 
 
 ## Total Trips
 <img src="images/TotalTrips.png">
+
 ### Total Ridership
-<img src="images/TotalRidership.png">
+<img src="images/TotalRiderShip.png">
+
 ### Daily Ridership 
 <img src="images/DailyRidership.png">
 
